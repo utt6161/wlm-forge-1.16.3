@@ -1,3 +1,9 @@
+# Whitelist modifier
+A small fabric server plugin that connects to donation alerts, essentially acting as an OBS widget to allow socket.io connection
+and recieve info about donations, if the dono is of certain amount, user gets whitelisted on the server for a month or more
+depending on the config
+
+```txt
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
@@ -51,3 +57,4 @@ https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
 
 For more details update more often refer to the Forge Forums:
 http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+```
